@@ -1,4 +1,6 @@
-# UML Diagrams — Full Reference (README)
+# UML Diagrams
+
+---
 
 > A comprehensive, practical guide to UML (Unified Modeling Language) diagrams: notation, purpose, examples (PlantUML), modeling tips, and best practices for software design and documentation.
 
